@@ -28,8 +28,6 @@ Linux (File Systems, Users, Permissions)
 
 🏆 Achievements:
 
-High grades in Engineering Math & Computer Architecture
-
 Projects in Operating Systems & Database Systems
 
 Built and simulated real-world signals (AC & Audio) in MATLAB
